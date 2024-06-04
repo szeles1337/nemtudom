@@ -1,6 +1,6 @@
 # Üdvözöllek a GitHub oldalamon! 👋
 
-![Header]([https://your-image-url.com/header-image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmuNLpd_yUwNDs_ltZxUrKGrw3RQvzeQzlw&s))
+![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmuNLpd_yUwNDs_ltZxUrKGrw3RQvzeQzlw&s)
 
 ## 🔧 Technológiák és Eszközök
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
@@ -15,7 +15,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 
-![Footer]([https://your-image-url.com/footer-image.png](https://images.genius.com/d51755b3354d194b08ce24be30993c17.958x984x1.png))
+![Footer](https://images.genius.com/d51755b3354d194b08ce24be30993c17.958x984x1.png)
 
 ---
 
